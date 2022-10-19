@@ -1,0 +1,74 @@
+html {
+	font-family:  Helvética;
+	background-color: 	#ADD8E6;
+}
+
+.container {
+	max-width: 1200px; 
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 50px;
+	margin: 50px;
+	background-color: #E0FFFF;
+}
+
+.destaque {
+	font-weight: bold;
+}
+
+/* Cabeçalho */
+
+
+.cabeçalho {
+	text-align:center;
+}
+
+.titulo-principal {
+	font-size: 40px
+}
+
+.paragrafo-principal {
+	font-style: italic;
+}
+
+/* Corpo do Site */
+
+.img-destaque {
+	text-align:center;
+	margin-top: 30px;
+	border-top: 1.5px dashed #ADD8E6;
+	border-bottom: 1.5px dashed #ADD8E6;
+}
+
+/* Filmes */
+.Filmes-container {
+	padding: 25px 0;
+	margin: 25px 0;
+	border-top: 1.5px dashed #ADD8E6;
+	border-bottom: 1.5px dashed #ADD8E6;
+}
+/* Citações */
+
+.frase-container {
+	background-color: #ADD8E6;
+    padding: 10px;
+}
+
+.frase-container blockquote {
+	font-weight: 600;
+	font-size: 30px;
+}
+
+.frase-container p {
+	font-style: italic;
+}
+
+/* Curiosidades */
+
+.curiosidades-container {
+	padding: 25px 0;
+	margin: 25px 0;
+	border-top: 1.5px dashed #ADD8E6;
+	border-bottom: 1.5px dashed #ADD8E6;
+}
